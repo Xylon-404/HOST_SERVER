@@ -1,11 +1,6 @@
 # 😈 HOST_SERVER – Free Python Localhost Server for HTML, CSS & JS
 
 <p align="center">
-  <img src="assets/Screenshot_20250928_155148_Termux.png" alt="Termux Run" width="320"/>
-  <img src="assets/Screenshot_20250928_155256_Chrome.png" alt="Chrome Preview" width="320"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" alt="Python 3.10+"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Active"/>
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License"/>
